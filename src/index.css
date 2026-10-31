@@ -1,0 +1,99 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    color-scheme: dark;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    background-color: #05060a;
+  }
+
+  body {
+    background-color: #05060a;
+    font-family: 'Poppins', Inter, sans-serif;
+    color: #f1f5f9;
+  }
+
+  /* Custom subtle scrollbar */
+  ::-webkit-scrollbar {
+    width: 7px;
+  }
+
+  ::-webkit-scrollbar-track {
+    background: #07080f;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: rgba(226, 148, 162, 0.3);
+    border-radius: 9999px;
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    background: rgba(226, 148, 162, 0.6);
+  }
+}
+
+@layer utilities {
+  .glass-card {
+    background: rgba(15, 19, 34, 0.65);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border: 1px solid rgba(244, 206, 212, 0.12);
+    box-shadow: 0 10px 40px -10px rgba(0, 0, 0, 0.6), 0 0 20px 0 rgba(226, 148, 162, 0.05);
+  }
+
+  .glass-card-hover {
+    transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+
+  .glass-card-hover:hover {
+    border-color: rgba(244, 206, 212, 0.3);
+    box-shadow: 0 20px 50px -10px rgba(0, 0, 0, 0.8), 0 0 30px 2px rgba(226, 148, 162, 0.18);
+  }
+
+  .text-glow {
+    text-shadow: 0 0 20px rgba(235, 186, 195, 0.6), 0 0 40px rgba(235, 186, 195, 0.3);
+  }
+
+  .text-glow-gold {
+    text-shadow: 0 0 20px rgba(242, 222, 163, 0.6), 0 0 40px rgba(242, 222, 163, 0.3);
+  }
+
+  .polaroid-shadow {
+    box-shadow: 0 15px 35px -5px rgba(0, 0, 0, 0.5), 0 0 20px rgba(243, 200, 203, 0.1);
+  }
+}
+
+/* Sparkle cursor trail */
+.sparkle-particle {
+  pointer-events: none;
+  position: fixed;
+  z-index: 9999;
+  border-radius: 50%;
+  animation: sparkleFade 0.8s forwards ease-out;
+}
+
+@keyframes sparkleFade {
+  0% {
+    transform: translate(-50%, -50%) scale(1) rotate(0deg);
+    opacity: 0.9;
+  }
+  100% {
+    transform: translate(-50%, -50%) scale(0.1) rotate(180deg);
+    opacity: 0;
+  }
+}
+
+/* Reduced motion preference */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

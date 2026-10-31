@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "image": "/photos/photo-01.jpg",
+    "thumb": "/photos/photo-01-thumb.jpg",
+    "width": 1170,
+    "height": 1560,
+    "aspectRatio": 0.75,
+    "orientation": "portrait",
+    "quote": "Some people enter our lives with grand introductions, while others quietly become part of our everyday story. You were never just another person I met—you became one of those rare souls whose presence makes ordinary moments feel special. Thank you for being a reminder that the greatest friendships are often the simplest ones."
+  },
+  {
+    "id": 2,
+    "image": "/photos/photo-02.jpg",
+    "thumb": "/photos/photo-02-thumb.jpg",
+    "width": 1040,
+    "height": 780,
+    "aspectRatio": 1.333,
+    "orientation": "landscape",
+    "quote": "Life is a book filled with countless pages, but only a few chapters remain unforgettable. Our friendship is one of those chapters that I hope time never closes. No matter where life leads us, the memories we've created will always have a permanent place in my heart."
+  },
+  {
+    "id": 3,
+    "image": "/photos/photo-03.jpg",
+    "thumb": "/photos/photo-03-thumb.jpg",
+    "width": 834,
+    "height": 1886,
+    "aspectRatio": 0.442,
+    "orientation": "portrait",
+    "quote": "A true friend doesn't always solve your problems or have all the answers. Sometimes, they simply stay beside you until you find your own strength again. That's the beauty of genuine friendship—it speaks the loudest in moments of silence."
+  },
+  {
+    "id": 4,
+    "image": "/photos/photo-04.jpg",
+    "thumb": "/photos/photo-04-thumb.jpg",
+    "width": 1200,
+    "height": 1600,
+    "aspectRatio": 0.75,
+    "orientation": "portrait",
+    "quote": "There are friends you talk to every day, and then there are friends where time and distance simply evaporate the moment you meet. With you, Bharathi, it never feels like catching up; it feels like picking up right where our souls left off."
+  },
+  {
+    "id": 5,
+    "image": "/photos/photo-05.jpg",
+    "thumb": "/photos/photo-05-thumb.jpg",
+    "width": 1086,
+    "height": 1448,
+    "aspectRatio": 0.75,
+    "orientation": "portrait",
+    "quote": "In a world that is always in such a hurry, having someone who listens without judgement is the rarest luxury. Thank you for being the person I can tell my unvarnished truths to without ever fearing what you might think."
+  },
+  {
+    "id": 6,
+    "image": "/photos/photo-06.jpg",
+    "thumb": "/photos/photo-06-thumb.jpg",
+    "width": 1007,
+    "height": 1562,
+    "aspectRatio": 0.645,
+    "orientation": "portrait",
+    "quote": "They say laughter is the shortest distance between two people, and with you, that distance has always been zero. Thank you for the uncontrollable giggles, the ridiculous inside jokes, and the memories that still make me smile on my hardest days."
+  },
+  {
+    "id": 7,
+    "image": "/photos/photo-07.jpg",
+    "thumb": "/photos/photo-07-thumb.jpg",
+    "width": 1086,
+    "height": 1448,
+    "aspectRatio": 0.75,
+    "orientation": "portrait",
+    "quote": "Friendship is not about who you've known the longest. It's about who walked into your life, held out a hand, and made you feel understood in a way words could never fully capture. You have been that person for me, over and over again."
+  },
+  {
+    "id": 8,
+    "image": "/photos/photo-08.jpg",
+    "thumb": "/photos/photo-08-thumb.jpg",
+    "width": 1024,
+    "height": 1536,
+    "aspectRatio": 0.667,
+    "orientation": "portrait",
+    "quote": "Through the chaos of everyday life, some people become your sanctuary. When the world feels a little too loud and overwhelming, your calm warmth is a gentle reminder that everything is going to be alright."
+  },
+  {
+    "id": 9,
+    "image": "/photos/photo-09.jpg",
+    "thumb": "/photos/photo-09-thumb.jpg",
+    "width": 720,
+    "height": 1280,
+    "aspectRatio": 0.563,
+    "orientation": "portrait",
+    "quote": "The most beautiful thing about our bond is how effortless it is. No pretending, no masks, no forced conversations—just two genuine hearts navigating life side by side with honesty, respect, and love."
+  },
+  {
+    "id": 10,
+    "image": "/photos/photo-10.jpg",
+    "thumb": "/photos/photo-10-thumb.jpg",
+    "width": 4096,
+    "height": 3072,
+    "aspectRatio": 1.333,
+    "orientation": "landscape",
+    "quote": "Every photograph holds a frozen heartbeat of time, but what makes this memory special is the joy we felt in that exact moment. You have this rare gift of turning the most ordinary afternoon into a treasured memory."
+  },
+  {
+    "id": 11,
+    "image": "/photos/photo-11.jpg",
+    "thumb": "/photos/photo-11-thumb.jpg",
+    "width": 1125,
+    "height": 1398,
+    "aspectRatio": 0.805,
+    "orientation": "portrait",
+    "quote": "A strong friendship doesn't need daily conversations or constant togetherness. As long as the relationship lives in the heart, true friends will never part. Proud to call you my best friend, Bharathi."
+  },
+  {
+    "id": 12,
+    "image": "/photos/photo-12.jpg",
+    "thumb": "/photos/photo-12-thumb.jpg",
+    "width": 645,
+    "height": 1280,
+    "aspectRatio": 0.504,
+    "orientation": "portrait",
+    "quote": "You don't just celebrate my victories; you've stood quietly beside me through my doubts and hesitations. Having a friend who believes in your potential when you feel small is an anchor unlike any other."
+  },
+  {
+    "id": 13,
+    "image": "/photos/photo-13.jpg",
+    "thumb": "/photos/photo-13-thumb.jpg",
+    "width": 4096,
+    "height": 3072,
+    "aspectRatio": 1.333,
+    "orientation": "landscape",
+    "quote": "We've shared cups of tea, endless conversations, silly arguments, and heartfelt confessions. Looking back, every single minute spent in your company has been an investment in a bond that will last a lifetime."
+  },
+  {
+    "id": 14,
+    "image": "/photos/photo-14.jpg",
+    "thumb": "/photos/photo-14-thumb.jpg",
+    "width": 1448,
+    "height": 1086,
+    "aspectRatio": 1.333,
+    "orientation": "landscape",
+    "quote": "There is a soft comfort in knowing that no matter how fast things change around us, our bond remains steadfast. You are one of the few constants in my life that I will always protect and cherish."
+  },
+  {
+    "id": 15,
+    "image": "/photos/photo-15.jpg",
+    "thumb": "/photos/photo-15-thumb.jpg",
+    "width": 1081,
+    "height": 1455,
+    "aspectRatio": 0.743,
+    "orientation": "portrait",
+    "quote": "Sometimes, all it takes to heal a heavy heart is a familiar smile across the table. Thank you for being that warmth, that light, and that unspoken reassurance whenever life felt a little complicated."
+  },
+  {
+    "id": 16,
+    "image": "/photos/photo-16.jpg",
+    "thumb": "/photos/photo-16-thumb.jpg",
+    "width": 960,
+    "height": 1280,
+    "aspectRatio": 0.75,
+    "orientation": "portrait",
+    "quote": "We may not know where the road ahead will take us, or what challenges the coming years will bring. But knowing that I have a friend like you walking this journey makes the future feel a lot less intimidating."
+  },
+  {
+    "id": 17,
+    "image": "/photos/photo-17.jpg",
+    "thumb": "/photos/photo-17-thumb.jpg",
+    "width": 960,
+    "height": 1280,
+    "aspectRatio": 0.75,
+    "orientation": "portrait",
+    "quote": "True friends are like stars; you don't always see them, but you know they are always there. Through every high tide and every quiet evening, you have been a constant starlight in my world."
+  },
+  {
+    "id": 18,
+    "image": "/photos/photo-18.jpg",
+    "thumb": "/photos/photo-18-thumb.jpg",
+    "width": 1143,
+    "height": 1376,
+    "aspectRatio": 0.831,
+    "orientation": "portrait",
+    "quote": "I hope you always see yourself through the eyes of the people who love you. You are kinder than you believe, stronger than you seem, and so much more capable than you give yourself credit for."
+  },
+  {
+    "id": 19,
+    "image": "/photos/photo-19.jpg",
+    "thumb": "/photos/photo-19-thumb.jpg",
+    "width": 899,
+    "height": 1599,
+    "aspectRatio": 0.562,
+    "orientation": "portrait",
+    "quote": "It's easy to find someone to share the sunny days with, but rare to find the friend who will share your umbrella during the torrential rain. Thank you for never running from the storms."
+  },
+  {
+    "id": 20,
+    "image": "/photos/photo-20.jpg",
+    "thumb": "/photos/photo-20-thumb.jpg",
+    "width": 4608,
+    "height": 3456,
+    "aspectRatio": 1.333,
+    "orientation": "landscape",
+    "quote": "We have created a world of our own filled with memories that nobody else can ever replicate. Those secret smiles and shared glances are treasures that I hold close to my heart every single day."
+  },
+  {
+    "id": 21,
+    "image": "/photos/photo-21.jpg",
+    "thumb": "/photos/photo-21-thumb.jpg",
+    "width": 1007,
+    "height": 1562,
+    "aspectRatio": 0.645,
+    "orientation": "portrait",
+    "quote": "Your kindness isn't just an action; it's a way of being. In a world where people often forget how to be gentle, your empathy and grace make you stand out like a radiant beacon."
+  },
+  {
+    "id": 22,
+    "image": "/photos/photo-22.jpg",
+    "thumb": "/photos/photo-22-thumb.jpg",
+    "width": 1560,
+    "height": 1560,
+    "aspectRatio": 1,
+    "orientation": "landscape",
+    "quote": "No matter how many years pass or how old we grow, I hope we never lose this spark of pure joy. May our laughs remain loud, our conversations deep, and our friendship as young as the day we met."
+  },
+  {
+    "id": 23,
+    "image": "/photos/photo-23.jpg",
+    "thumb": "/photos/photo-23-thumb.jpg",
+    "width": 1007,
+    "height": 1562,
+    "aspectRatio": 0.645,
+    "orientation": "portrait",
+    "quote": "Friendship is the comfort of knowing that even when you feel completely alone, someone out there is holding a piece of your story with tenderness and care. Thank you for carrying mine."
+  },
+  {
+    "id": 24,
+    "image": "/photos/photo-24.jpg",
+    "thumb": "/photos/photo-24-thumb.jpg",
+    "width": 576,
+    "height": 1280,
+    "aspectRatio": 0.45,
+    "orientation": "portrait",
+    "quote": "We don't always need grandiose adventures to make life memorable. Sometimes, just sitting beside you, talking about dreams, struggles, and silly things, is the richest experience of all."
+  },
+  {
+    "id": 25,
+    "image": "/photos/photo-25.jpg",
+    "thumb": "/photos/photo-25-thumb.jpg",
+    "width": 1254,
+    "height": 1254,
+    "aspectRatio": 1,
+    "orientation": "landscape",
+    "quote": "There are people who make you feel proud of who you are, simply by accepting you completely. Bharathi, you gave me the permission to be wholly myself, and I can never thank you enough for that."
+  },
+  {
+    "id": 26,
+    "image": "/photos/photo-26.jpg",
+    "thumb": "/photos/photo-26-thumb.jpg",
+    "width": 1706,
+    "height": 2560,
+    "aspectRatio": 0.666,
+    "orientation": "portrait",
+    "quote": "May life always surround you with the same warmth and genuine care that you pour into the people around you. You give so much to the world; I pray the world gives twice as much back to you."
+  },
+  {
+    "id": 27,
+    "image": "/photos/photo-27.jpg",
+    "thumb": "/photos/photo-27-thumb.jpg",
+    "width": 941,
+    "height": 1672,
+    "aspectRatio": 0.563,
+    "orientation": "portrait",
+    "quote": "Every chapter we write together is filled with authenticity. You've taught me what it means to be patient, what it means to listen, and what it truly looks like to stand by a friend through thick and thin."
+  },
+  {
+    "id": 28,
+    "image": "/photos/photo-28.jpg",
+    "thumb": "/photos/photo-28-thumb.jpg",
+    "width": 720,
+    "height": 1600,
+    "aspectRatio": 0.45,
+    "orientation": "portrait",
+    "quote": "The best kind of friendship is one that helps both people grow into their highest and most confident selves. Watching you evolve, conquer your battles, and bloom has been one of my greatest privileges."
+  },
+  {
+    "id": 29,
+    "image": "/photos/photo-29.jpg",
+    "thumb": "/photos/photo-29-thumb.jpg",
+    "width": 941,
+    "height": 1672,
+    "aspectRatio": 0.563,
+    "orientation": "portrait",
+    "quote": "A single grateful thought toward heaven is the most complete prayer, and every time I think of our friendship, my heart is filled with pure gratitude for having you in my life."
+  },
+  {
+    "id": 30,
+    "image": "/photos/photo-30.jpg",
+    "thumb": "/photos/photo-30-thumb.jpg",
+    "width": 941,
+    "height": 1672,
+    "aspectRatio": 0.563,
+    "orientation": "portrait",
+    "quote": "Through every change of season, through every high and low, you have shown up with loyalty, compassion, and that unforgettable radiant smile. You are truly one of a kind."
+  },
+  {
+    "id": 31,
+    "image": "/photos/photo-31.jpg",
+    "thumb": "/photos/photo-31-thumb.jpg",
+    "width": 941,
+    "height": 1672,
+    "aspectRatio": 0.563,
+    "orientation": "portrait",
+    "quote": "I hope you always remember how much your presence matters. You don't have to accomplish great things every single day; simply being here, lighting up our lives, is more than enough."
+  },
+  {
+    "id": 32,
+    "image": "/photos/photo-32.jpg",
+    "thumb": "/photos/photo-32-thumb.jpg",
+    "width": 941,
+    "height": 1672,
+    "aspectRatio": 0.563,
+    "orientation": "portrait",
+    "quote": "Looking through all these captured moments, one truth shines brighter than anything else: life is so much richer, warmer, and sweeter because I get to share it with a friend like you."
+  }
+]
